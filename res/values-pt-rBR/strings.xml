@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Gerenciador de armazenamento"</string>
+    <string name="cancel">"Cancelar"</string>
+    <string name="storage_menu_free">"Libere espaço"</string>
+    <string name="deletion_helper_title">"Remover itens"</string>
+    <string name="deletion_helper_app_summary">"<xliff:g id="days" example="67">%1$d</xliff:g> dias atrás"</string>
+    <string name="deletion_helper_app_summary_never_used">"Não usado no último ano"</string>
+    <string name="deletion_helper_app_summary_unknown_used">"Não há estimativa sobre o último uso"</string>
+    <string name="deletion_helper_free_button">"Liberado <xliff:g id="freeable" example="1.2GB">%1$s</xliff:g>"</string>
+    <string name="deletion_helper_photos_title">"Backup de fotos &amp; vídeos"</string>
+    <string name="deletion_helper_photos_age_summary">"Mais de 30 dias de existência"</string>
+    <string name="deletion_helper_downloads_title">"Downloads"</string>
+    <string name="deletion_helper_clear_dialog_title">"Libere espaço"</string>
+    <string name="deletion_helper_clear_dialog_message">"<xliff:g id="clearable_bytes" example="1.2GB">%1$s</xliff:g> de conteúdo será removido do dispositivo"</string>
+    <string name="deletion_helper_clear_dialog_remove">"Libere espaço"</string>
+    <string name="deletion_helper_upsell_title">"Gerenciar o armazenamento automaticamente?"</string>
+    <string name="deletion_helper_upsell_summary">"<xliff:g id="used" example="1.2GB">%1$s</xliff:g> livres no momento. Deixar o gerenciador de armazenamento liberar espaço automaticamente, removendo conteúdos com back-up de seu dispositivo?"</string>
+    <string name="deletion_helper_upsell_cancel">"Não, obrigado"</string>
+    <string name="deletion_helper_upsell_activate">"Ativar"</string>
+    <string name="deletion_helper_apps_group_title">"Aplicativos usados raramente"</string>
+    <string name="deletion_helper_automatic_title">"Automático"</string>
+    <string name="deletion_helper_manual_title">"Manual"</string>
+    <string name="deletion_helper_preference_title">"Espaço livre no momento"</string>
+    <string name="automatic_storage_manager_service_label">"Serviço automático de gerenciamento de armazenamento"</string>
+    <string name="automatic_storage_manager_notification_title" product="default">"O telefone está com pouco espaço"</string>
+    <string name="automatic_storage_manager_notification_title" product="tablet">"O tablet está com pouco espaço"</string>
+    <string name="automatic_storage_manager_notification_summary">"Permitir que o gerenciador de armazenamento libere espaço automaticamente, removendo fotos e vídeos antigos quando o seu telefone começar a ficar sem espaço de armazenamento."</string>
+    <string name="automatic_storage_manager_cancel_button">"Não, obrigado"</string>
+    <string name="automatic_storage_manager_activate_button">"Ativar"</string>
+    <string name="deletion_helper_photos_loading_title">"Backup de fotos &amp; vídeos"</string>
+    <string name="deletion_helper_photos_loading_summary">"Localizando itens…"</string>
+    <string name="deletion_helper_no_threshold">"Exibir todos os itens"</string>
+    <string name="deletion_helper_default_threshold">"Ocultar itens recentes"</string>
+    <string name="deletion_helper_clear_dialog_message_first_time">"<xliff:g id="clearable_bytes" example="1.2GB">%1$s</xliff:g> de conteúdo será removido do dispositivo"</string>
+    <string name="automatic_storage_manager_activation_warning">"O armazenamento está sendo gerenciado pelo gerenciador de armazenamento"</string>
+    <string name="empty_state_title">"Não há nada para remover"</string>
+    <string name="empty_state_review_items_link">"Revisar os itens recentes"</string>
+    <string name="empty_state_summary">"Não há arquivos antigos para remover. Para liberar espaço, remova fotos, vídeos e apps recentes."</string>
+    <string name="app_requesting_space">"<xliff:g id="app" example="Dialer">%1$s</xliff:g> é necessário <xliff:g id="clearable_bytes" example="1.2GB">%2$s</xliff:g> de espaço"</string>
+</resources>

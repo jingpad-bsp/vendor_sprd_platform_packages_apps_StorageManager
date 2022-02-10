@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="automatic_storage_management_days">
+      <item>"Mais de 30 dias de existência"</item>
+      <item>"Mais de 60 dias de existência"</item>
+      <item>"Mais de 90 dias de existência"</item>
+    </string-array>
+</resources>
